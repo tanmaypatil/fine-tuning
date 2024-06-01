@@ -1,0 +1,6 @@
+{ "type" : "comment", "text" : "p2go means payment 2 go product" }
+{ "type" : "comment", "text" : "p2go is SAAS version of the payment hub offered to the bank" }
+{ "type" : "comment", "text" : "p2go is hosted on azure cloud as of now but i think it can be hosted on other cloud platforms too" }
+{ "type" : "comment", "text"	:"p2go has mostly american customers although european customers are in pipeline"}
+{ "type" : "comment", "text"	:"Most of customers of p2go are having FED payment rail"}
+{ "type" : "comment", "text"	: "FED payment rail will undego modernisation called as FED ISO where by all proprietary messages will go away and iso formats will be adopted"}
