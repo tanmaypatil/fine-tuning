@@ -1,0 +1,2 @@
+For dependency score calculation , highest weightage goes to product priority .
+That would mean higher the product priority, higher the dependency score .
